@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import '@fortawesome/fontawesome-free/css/all.css';
+
+.btn {
+  width: 100%;
+  background-color: #4f46e5;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+.btn:hover {
+  background-color: #4338ca;
+}
